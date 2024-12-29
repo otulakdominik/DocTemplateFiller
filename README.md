@@ -22,7 +22,9 @@ Python 3.8 or later
 pip (Python package manager)
 
 # Setup Steps
-
+1. Clone the repository:
+  git clone https://github.com/otulakdominik/DocTemplateFiller.git
+  cd DocTemplateFiller
 1. Install dependencies:
   pip install -r requirements.txt
 2. Run the application:
